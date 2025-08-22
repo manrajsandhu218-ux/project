@@ -1,0 +1,56 @@
+#content {
+  margin-top: 10%;
+}
+
+#photo {
+  float: left;
+  height: 400px;
+  width: 400px;
+}
+
+#content {
+  display: flex;
+  padding: 20px;
+}
+
+#header {
+  background-color: grey;
+  color: aliceblue;
+  display: flex;
+  justify-content: space-between;
+}
+#cont{
+  padding-left: 5%;
+}
+span {
+  color: red;
+}
+
+#nav {
+  margin-top: 2%;
+  cursor: pointer;
+  
+}
+a{
+  padding: 5px;
+}
+
+#footer {
+  text-align: center;
+  background-color: grey;
+  color: aliceblue;
+  margin-top: 25%;
+  padding-top: 2%;
+}
+#button{
+  background-color: aqua;
+  color: rgb(38, 36, 36);
+  border: 5px;
+  padding: 5px;
+  border-radius: 10px;
+ 
+  
+}
+p{
+  text-align: justify;
+}
